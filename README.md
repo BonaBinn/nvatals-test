@@ -1,7 +1,5 @@
 # nvatals-test
-NOminals to verbs
-
-
+Nominals to verbs
 
 
 
